@@ -27,7 +27,7 @@
   <br>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> &nbsp
   <br>
-  <p>js 응애시절때 좋아했었음, 지금은 아님</p>
+  <p>옛날에 좋아했었음, 지금은 아님</p>
   <br>
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/> &nbsp
   <br>
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Raspberry%20Pi%204B%204GB-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/></a>
   <br>
   <p>
-  OS: Ubuntu 20.04 LTS
+  OS: Ubuntu 22.04 LTS
   <br>
   HDD: 500GB
   <br>
