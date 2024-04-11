@@ -5,9 +5,9 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox%20VE-E57000?style=flat-square&logo=proxmox&logoColor=white)  
 OS: Proxmox VE 8  
 CPU: Intel i5 12400F  
+RAM: 128GB  
 SSD: Samsung 870 evo 500GB  
 HDD: IronWolf 8TB  
-RAM: 64GB  
 ### VM Nodes
 #### Web Service Server
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)  
