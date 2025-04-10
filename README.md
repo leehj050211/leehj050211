@@ -14,7 +14,7 @@ HDD: 18TB, 18TB, 8TB
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)  
 각종 서비스들 올려놓는 짬통
 #### NAS
-![TrueNAS](https://img.shields.io/badge/TrueNAS%20CORE-0095D5?style=flat-square&logo=truenas&logoColor=white)  
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)  
 여러 자료들 백업하는 곳
 #### Windows VM
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078d4?style=flat-square&logo=windows11&logoColor=white)  
